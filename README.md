@@ -52,9 +52,9 @@ Programming Language Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malcolmlearnstech)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<!--
 
-GitHub Commit Stats:
+
+<!-- Git Hub Commit Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
