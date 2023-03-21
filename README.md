@@ -68,4 +68,4 @@ Programming Language Stats:
 <!-- Git Hub Commit Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href> <img src="https://www.codewars.com/users/malcolmdotjson/badges/large" alt="codewars"/> </a>
