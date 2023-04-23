@@ -67,14 +67,18 @@ Programming Language Stats:
 
 
 <!-- Git Hub Commit Stats -->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=malcolmlearnstech)](https://git.io/streak-stats) -->
-<a href="https://github.com/malcolmlearnstech"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&custom_title=Malcolm's%20Github%20Stats&card_width=100&show_icons=true&line_height=40&count_private=true&theme=vue" alt="Malcolm's GitHub Stats" /> 
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=malcolmlearnstech)](https://git.io/streak-stats) -->
+<div align = "center">
+<a href="https://github.com/malcolmlearnstech"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&custom_title=Malcolm's%20Github%20Stats&card_width=100&show_icons=true&line_height=30&count_private=true&theme=vue" alt="Malcolm's GitHub Stats" /> 
   </a> 
   
   <a href="https://github.com/malcolmlearnstech">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malcolmlearnstech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=vue" alt=`Malcolm's Github Streak`/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malcolmlearnstech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=30&theme=vue" alt=`Malcolm's Github Streak`/>
 </a>
 
+<br>
 
 <a href> <img src="https://www.codewars.com/users/malcolmdotjson/badges/large" alt="codewars"/> </a>
+
+</div>
