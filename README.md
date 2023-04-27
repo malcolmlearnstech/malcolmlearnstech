@@ -80,7 +80,7 @@ Programming Language Stats:
   </a> 
   
   <a href="https://github.com/malcolmlearnstech"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malcolmlearnstech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=30&theme=vue" alt=`Malcolm's Github Streak`/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malcolmlearnstech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=30&theme=vue-dark" alt=`Malcolm's Github Streak`/>
   
 
 <br>
