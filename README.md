@@ -46,12 +46,10 @@ Here are some ideas to get you started:
 <!--  
 <a href="https://linkedin.com/in/malcolmrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malcolmrm" height="30" width="40" /></a>
 -->
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/malcolmrm/) &nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mrmlearnstech)
+<a href="https://www.linkedin.com/in/malcolmrm/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/mrmlearnstech" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter"/></a>
 </p>
 </div>
-
-
 
 <h3 align="center">I'm Trained in the Following Languages and Tools:</h3>
 
