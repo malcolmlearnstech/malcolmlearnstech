@@ -75,13 +75,13 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=express" alt="express"/>
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript"/>
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
 </a>
 
