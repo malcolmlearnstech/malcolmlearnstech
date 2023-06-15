@@ -74,22 +74,22 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=express" alt="express"/>
-</a>
+</a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript"/>
-</a>
+</a>&nbsp;
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
-</a>
+</a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
-</a>
+</a>&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
-</a>
+</a>&nbsp;
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=postgres" alt="postgres"/>
-</a>
+</a>&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=react" alt="react"/>
 </a>
