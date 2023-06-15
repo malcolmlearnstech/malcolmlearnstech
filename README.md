@@ -93,7 +93,7 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=react" alt="react"/>
 </a>
-
+<br>
 <a href="https://redux.js.org/" target="_blank" >
 <img src="https://skillicons.dev/icons?i=redux" alt="redux"/>
 </a>
