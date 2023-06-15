@@ -72,47 +72,47 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<a href="https://expressjs.com" target="_blank" >
 <img src="https://skillicons.dev/icons?i=express" alt="express"/>
 </a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript"/>
 </a>&nbsp;
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/html/" target="_blank">
 <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
 </a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
 </a>&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<a href="https://nodejs.org" target="_blank">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
 </a>&nbsp;
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<a href="https://www.postgresql.org" target="_blank">
 <img src="https://skillicons.dev/icons?i=postgres" alt="postgres"/>
 </a>&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<a href="https://reactjs.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=react" alt="react"/>
 </a>
 
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+<a href="https://redux.js.org/" target="_blank" >
 <img src="https://skillicons.dev/icons?i=redux" alt="redux"/>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" alt="git"/>
 </a>
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+<a href="https://sequelize.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=sequelize" alt="sequelize"/>
 </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<a href="https://www.postman.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=postman" alt="postman"/>
 </a>
-<a href="https://webpack.js.org/concepts/" target="_blank" rel="noreferrer">
+<a href="https://webpack.js.org/concepts/" target="_blank">
 <img src="https://skillicons.dev/icons?i=webpack" alt="webpack"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a href="https://tailwindcss.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"/>
 </a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+<a href="https://www.netlify.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>
 </a>
 
