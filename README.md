@@ -72,6 +72,9 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 -->
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=express" alt="express"/>
+</a>
 
 </p>
 </div>
