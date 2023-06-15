@@ -84,6 +84,15 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
 </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=postgres" alt="postgres"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=react" alt="react"/>
+</a>
 
 </p>
 </div>
