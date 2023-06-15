@@ -94,6 +94,28 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <img src="https://skillicons.dev/icons?i=react" alt="react"/>
 </a>
 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=redux" alt="redux"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=git" alt="git"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=sequelize" alt="sequelize"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=postman" alt="postman"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=webpack" alt="webpack"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>
+</a>
+
 </p>
 </div>
 
