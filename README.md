@@ -57,7 +57,7 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <p>
 
 <!--PREVIOUS TECHNOLOGY/LIBRARY LOGO DISPLAY-->
-
+<!--
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" width="120" height="35"/>
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -71,6 +71,7 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+-->
 
 </p>
 </div>
@@ -92,8 +93,8 @@ Programming Language Stats:
 <a href="https://github.com/malcolmlearnstech"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&custom_title=Malcolm's%20Github%20Stats&card_width=100&show_icons=true&line_height=30&count_private=true&theme=vue" alt="Malcolm's GitHub Stats" />
 </a>
 
-  <a href="https://github.com/malcolmlearnstech"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malcolmlearnstech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=30&theme=vue-dark" alt=`Malcolm's Github Streak`/>
+<a href="https://github.com/malcolmlearnstech"> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malcolmlearnstech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=30&theme=vue-dark" alt=`Malcolm's Github Streak`/>
 
 <br>
 <br>
