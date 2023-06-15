@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+<h3>Connect with me:</h3>
 
-<p align="left">
-
+<p align=>
 <!-- LINK TO TWITTER PROFILE
 <a href="https://twitter.com/mrmlearnstech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmlearnstech" height="30" width="40" /></a>
 -->
@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 <!--  
 <a href="https://linkedin.com/in/malcolmrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malcolmrm" height="30" width="40" /></a>
 -->
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/malcolmrm/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/malcolmrm/) &nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mrmlearnstech)
 </p>
+</div>
 
 
 
