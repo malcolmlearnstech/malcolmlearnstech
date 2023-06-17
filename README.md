@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-Hi 👋, I'm Malcolm
+Hi, I'm Malcolm M.
 </h1>
 
 <h2 align="center">
@@ -34,7 +34,7 @@ I am a New York City based Software Engineer currently working on algorithms, da
 <br>
 
 <div align="center">
-<h3>Connect with Me:</h3>
+<h3>Let's Connect!</h3>
 
 <p align=>
 <!-- LINK TO TWITTER PROFILE
