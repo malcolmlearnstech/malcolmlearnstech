@@ -28,7 +28,7 @@ Hi 👋, I'm Malcolm
 </h1>
 
 <h2 align="center">
-I am a Software Engineer currently working on algorithms, data structures and a number of personal projects. 
+I am a New York City based Software Engineer currently working on algorithms, data structures and a number of personal projects. 
 </h2>
 <br>
 <br>
