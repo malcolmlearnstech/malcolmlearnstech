@@ -34,7 +34,6 @@ I am a New York City based Software Engineer currently working on algorithms, da
 <br>
 
 <div align="center">
-<h3>Let's Connect!</h3>
 
 <p align=>
 <!-- LINK TO TWITTER PROFILE
@@ -44,9 +43,7 @@ I am a New York City based Software Engineer currently working on algorithms, da
 <!--  
 <a href="https://linkedin.com/in/malcolmrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malcolmrm" height="30" width="40" /></a>
 -->
-<a href="https://www.linkedin.com/in/malcolmrm/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/mrmlearnstech" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter"/></a>
-</p>
+
 </div>
 
 <br>
@@ -143,5 +140,14 @@ Programming Language Stats:
 <br>
 
 <a href> <img src="https://www.codewars.com/users/malcolmdotjson/badges/large" alt="codewars"/> </a>
+<br>
+<br>
+
+<h3>Let's Connect!</h3>
+
+<a href="https://www.linkedin.com/in/malcolmrm/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/mrmlearnstech" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter"/></a>
+
+</p>
 
 </div>
