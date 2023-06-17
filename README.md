@@ -94,9 +94,9 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <img src="https://skillicons.dev/icons?i=react" alt="react"/>
 </a>
 <br>
-<a href="https://redux.js.org/" target="_blank" >
+<!--<a href="https://redux.js.org/" target="_blank" >
 <img src="https://skillicons.dev/icons?i=redux" alt="redux"/>
-</a>
+</a>-->
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" alt="git"/>
 </a>
