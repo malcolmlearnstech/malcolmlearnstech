@@ -84,9 +84,9 @@ I am a Software Engineer currently working on algorithms, data structures and a 
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
 </a>&nbsp;
-<a href="https://nodejs.org" target="_blank">
+<!--<a href="https://nodejs.org" target="_blank">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
-</a>&nbsp;
+</a>&nbsp;-->
 <a href="https://www.postgresql.org" target="_blank">
 <img src="https://skillicons.dev/icons?i=postgres" alt="postgres"/>
 </a>&nbsp;
