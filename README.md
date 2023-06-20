@@ -128,15 +128,20 @@ Programming Language Stats:
 
 <div align = "center">
 
+
 <a href="https://github.com/malcolmlearnstech"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&custom_title=Malcolm's%20Github%20Stats&card_width=100&show_icons=true&line_height=30&count_private=true&theme=vue" alt="Malcolm's GitHub Stats" />
 </a>
+
+<br>
+
 
 <a href="https://github.com/malcolmlearnstech"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malcolmlearnstech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=30&theme=vue-dark" alt=`Malcolm's Github Streak`/>
 
-<br>
-<br>
 
+<br>
+<br>
+<br>
 <a href> <img src="https://www.codewars.com/users/malcolmdotjson/badges/large" alt="codewars"/> </a>
 <br>
 <br>
