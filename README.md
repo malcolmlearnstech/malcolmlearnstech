@@ -46,8 +46,6 @@ I am a New York City based Software Engineer currently working on algorithms, da
 
 </div>
 
-<br>
-
 <h3 align="center">I'm Trained in the Following Languages and Tools:</h3>
 
 <div align="center">
