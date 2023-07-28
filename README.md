@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 Hi, I'm Malcolm Mack
 </h1>
 
-<h2 align="center">
-I am a Software Engineer based in New York City – developing web applications with JavaScript, React, and Node.js 
-</h2>
-<br>
-<br>
+<p align="center">
+I'm a Software Engineer based in New York City – developing web applications with JavaScript, React, and Node.js 
+</p>
 
 <!--
 <div align="center">
