@@ -24,15 +24,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-Hi, I'm Malcolm M.
+Hi, I'm Malcolm Mack
 </h1>
 
 <h2 align="center">
-I am a New York City based Software Engineer currently working on algorithms, data structures and a number of personal projects. 
+I am a Software Engineer based in New York City – developing web applications with JavaScript, React, and Node.js 
 </h2>
 <br>
 <br>
 
+<!--
 <div align="center">
 
 <p align=>
@@ -46,7 +47,9 @@ I am a New York City based Software Engineer currently working on algorithms, da
 
 </div>
 
+<!--
 <h3 align="center">I'm Trained in the Following Languages and Tools:</h3>
+-->
 
 <div align="center">
 <p>
@@ -67,6 +70,8 @@ I am a New York City based Software Engineer currently working on algorithms, da
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 -->
+
+<!--
 <a href="https://expressjs.com" target="_blank" >
 <img src="https://skillicons.dev/icons?i=express" alt="express"/>
 </a>&nbsp;
@@ -79,9 +84,7 @@ I am a New York City based Software Engineer currently working on algorithms, da
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
 </a>&nbsp;
-<!--<a href="https://nodejs.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
-</a>&nbsp;-->
+
 <a href="https://www.postgresql.org" target="_blank">
 <img src="https://skillicons.dev/icons?i=postgres" alt="postgres"/>
 </a>&nbsp;
@@ -89,9 +92,16 @@ I am a New York City based Software Engineer currently working on algorithms, da
 <img src="https://skillicons.dev/icons?i=react" alt="react"/>
 </a>
 <br>
+-->
+<!--<a href="https://nodejs.org" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
+</a>&nbsp;-->
 <!--<a href="https://redux.js.org/" target="_blank" >
 <img src="https://skillicons.dev/icons?i=redux" alt="redux"/>
-</a>-->
+</a>
+-->
+
+<!--
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" alt="git"/>
 </a>
@@ -110,9 +120,10 @@ I am a New York City based Software Engineer currently working on algorithms, da
 <a href="https://www.netlify.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=netlify" alt="netlify"/>
 </a>
-
+-->
 </p>
 </div>
+
 
 <!--
 Programming Language Stats:
@@ -123,34 +134,40 @@ Programming Language Stats:
 <!-- Git Hub Commit Stats -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=malcolmlearnstech)](https://git.io/streak-stats) -->
-<br>
-<br>
+
 
 <div align = "center">
 
-
+<!--
 <a href="https://github.com/malcolmlearnstech"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=malcolmlearnstech&custom_title=Malcolm's%20Github%20Stats&card_width=100&show_icons=true&line_height=30&count_private=true&theme=vue" alt="Malcolm's GitHub Stats" />
 </a>
+-->
 
+<!--
 <br>
 
 
 <a href="https://github.com/malcolmlearnstech"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=malcolmlearnstech&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=30&theme=vue-dark" alt=`Malcolm's Github Streak`/>
+-->
 
-
+<!--
 <br>
 <br>
 <br>
 <a href> <img src="https://www.codewars.com/users/malcolmdotjson/badges/large" alt="codewars"/> </a>
 <br>
 <br>
+-->
 
+<!--
 <h3>Let's Connect!</h3>
 
 <a href="https://www.linkedin.com/in/malcolmrm/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/mrmlearnstech" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter"/></a>
 
 </p>
+-->
 
 </div>
+
