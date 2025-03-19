@@ -28,7 +28,7 @@ Hi, I'm Malcolm Mack
 </h1>
 
 <p align="center">
-I'm a Software Engineer based in New York City – developing web applications with JavaScript, React, and Node.js 
+I'm a Software Engineer in New York City – developing web applications with JavaScript, React, and Node.js 
 </p>
 
 <!--
