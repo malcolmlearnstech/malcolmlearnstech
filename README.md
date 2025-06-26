@@ -28,7 +28,7 @@ Hi, I'm Malcolm
 </h1>
 
 <p align="center">
-I'm a Software Engineer in New York City – developing web applications with JavaScript, React, and Node.js 
+I'm a Software Engineer – developing web applications with JavaScript, React, and Node.js 
 </p>
 
 <!--
